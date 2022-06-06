@@ -38,3 +38,7 @@ jobs:
       # Runs a list command
       - name: Run a list command
         run: ls
+        
+      # Runs python script
+      - name: Run python script
+        run: python test.py
