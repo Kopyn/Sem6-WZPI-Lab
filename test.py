@@ -1,1 +1,1 @@
-prit("test")
+prit("test2")
