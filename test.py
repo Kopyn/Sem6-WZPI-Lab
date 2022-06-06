@@ -1,1 +1,1 @@
-print("test")
+prit("test")
